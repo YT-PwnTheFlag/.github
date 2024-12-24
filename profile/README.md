@@ -1,6 +1,6 @@
 <p align="center">
 
-![banner2]()
+![banner2](https://github.com/YT-PwnTheFlag/.github/blob/main/profile/channels4_banner.jpg)
 
 </p>
 
